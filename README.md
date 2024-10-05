@@ -1,2 +1,4 @@
-# NTUT_C_gradeOne
-The first grade of C class's weekly homeworks.
+# NTUT_python_GradeOne
+**The first grade of C language class's weekly homeworks.**
+
+**大一C語言的每周功課...**
